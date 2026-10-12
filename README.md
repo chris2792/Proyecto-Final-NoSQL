@@ -21,7 +21,7 @@ MongoDB para la gestión de bases de datos NoSQL.
 
 Integrantes
 
-Pendiente de agregar.
+Christopher Granados Mora
 
 Estado del proyecto
 
